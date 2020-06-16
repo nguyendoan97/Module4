@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3bc76095-5508-4b6c-baa2-7ea1f1275430" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../module2/bai1/src/khaibaobien.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../module2/bai1/src/sudungtoantu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module1/luyentapmang1/bai1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module1/luyentapmang1/bai2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module1/luyentapmang1/bai3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module1/luyentapmang1/bai4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module1/maytinh.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module1/tapcode/testcode.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module1/tapcode/testcode.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module2/src/bai1/SystemTime.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../source/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../source/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../source/.idea/source.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../source/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../source/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../source/new.html" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="spring-beans.schema" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1dNsSXDhgc5U2QKnAVwzdvKqi2J" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3bc76095-5508-4b6c-baa2-7ea1f1275430" name="Default Changelist" comment="" />
+      <created>1592276885193</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592276885193</updated>
+      <workItem from="1592276889302" duration="92000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="462" y="105" key="FileChooserDialogImpl" timestamp="1592276971632">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="462" y="105" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1592276971632" />
+    <state x="65" y="0" key="new project wizard" timestamp="1592276980645">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="65" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1592276980645" />
+  </component>
+</project>

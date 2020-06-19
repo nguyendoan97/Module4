@@ -25,28 +25,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4e3735cc-0cb5-49b8-b16a-288dc3206545" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../bai2/Practice_Email_Regex/src/main/java/controllers/EmailControler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../bai2/Practice_Email_Regex/src/main/webapp/WEB-INF/applicationContext.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../bai2/Practice_Email_Regex/src/main/webapp/WEB-INF/dispatcher-servlet.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../bai2/Practice_Email_Regex/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../bai2/test/src/main/java/controllers/EmailController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../bai2/test/src/main/webapp/WEB-INF/applicationContext.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../bai2/test/src/main/webapp/WEB-INF/dispatcher-servlet.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../bai2/test/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../bai2/test/src/main/webapp/views/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../bai2/test/src/main/webapp/views/success.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../bai2/thuchanh/src/main/webapp/WEB-INF/applicationContext.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../bai2/thuchanh/src/main/webapp/WEB-INF/dispatcher-servlet.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../bai2/thuchanh/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../bai2/thuchanh2/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../bai2/thuchanh2/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../bai2/thuchanh2/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../bai2/thuchanh2/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../bai2/thuchanh2/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../bai2/thuchanh2/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tudien/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../tudien/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai4/login/src/com/codegym/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai4/login/src/com/codegym/dao/UserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai4/login/src/com/codegym/model/Login.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai4/login/src/com/codegym/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai4/login/web/WEB-INF/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai4/login/web/WEB-INF/dispatcher-servlet.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai4/login/web/WEB-INF/views/error.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai4/login/web/WEB-INF/views/home.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai4/login/web/WEB-INF/views/user.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai4/login_gradle/src/main/webapp/WEB-INF/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai4/login_gradle/src/main/webapp/WEB-INF/dispatcher-servlet.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai4/login_gradle/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bai3/product/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../bai3/product/.idea/gradle.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -246,6 +237,7 @@
       <workItem from="1592298521552" duration="597000" />
       <workItem from="1592388813745" duration="1076000" />
       <workItem from="1592390260985" duration="1614000" />
+      <workItem from="1592534608780" duration="32000" />
     </task>
     <servers />
   </component>

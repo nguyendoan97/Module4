@@ -9,22 +9,59 @@
 <div id="form">
     <form action="#" th:action="@{addEmailConfig}" th:object="${emailConfig}"
           method="POST" novalidate="novalidate">
-        <div>
-            <select th:field="*{language}">
-                <option th:each="language : ${languages}"
-                        th:value="${language}"
-                        th:text="${language}"></option>
-            </select>
-        </div>
-<!--        <div>-->
-<!--            <label>Name</label>-->
-<!--            <input type="text" th:field="*{name}"/>-->
-<!--        </div>-->
-<!--        <div>-->
-<!--            <label>ContactNumber</label>-->
-<!--            <input type="text" th:field="*{contactNumber}"/>-->
-<!--        </div>-->
-        <input type="submit" value="Create"></input>
+        <table>
+            <tr>
+                <td>
+                    <b>Languages :   </b>
+                </td>
+                <td>
+                    <select th:field="*{language}">
+                        <option th:each="language : ${languages}"
+                                th:value="${language}"
+                                th:text="${language}"></option>
+                    </select>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <b>Page Size : </b>
+                </td>
+                <td>
+                    Show
+                    <select th:field="*{size}">
+                        <option th:each="size : ${sizes}"
+                                th:value="${size}"
+                                th:text="${size}"></option>
+                    </select>
+                    email per page
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <b>Spam Filter : </b>
+                </td>
+                <td>
+                    <input type="checkbox" th:value="true" th:field="*{spam}"/>
+                    Enable spams filter
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <b>Signature : </b>
+                </td>
+                <td>
+                    <input type="text" th:field="*{signature}"/>
+                </td>
+            </tr>
+            <tr>
+                <td>
+
+                </td>
+                <td>
+                    <input type="submit" value="Create"></input>
+                </td>
+            </tr>
+        </table>
     </form>
 </div>
 

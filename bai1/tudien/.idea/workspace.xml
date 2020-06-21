@@ -24,7 +24,19 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="20f24e10-8048-4883-8a0e-c32d01893ce2" name="Default Changelist" comment="" />
+    <list default="true" id="20f24e10-8048-4883-8a0e-c32d01893ce2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../bai2/sandwich/sandwich.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai2/sandwich/src/controller/SandwichController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai2/sandwich/web/WEB-INF/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai2/sandwich/web/WEB-INF/dispatcher-servlet.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai2/sandwich/web/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai2/thuchanh_giothegoi/src/main/java/controller/TimeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai2/thuchanh_giothegoi/src/main/webapp/WEB-INF/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai2/thuchanh_giothegoi/src/main/webapp/WEB-INF/dispatcher-servlet.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai2/thuchanh_giothegoi/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bai2/thuchanh2/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../bai2/thuchanh2/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bai4/config_email/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../bai4/config_email/.idea/gradle.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -149,6 +161,7 @@
       <option name="presentableId" value="Default" />
       <updated>1592300856552</updated>
       <workItem from="1592300860177" duration="1408000" />
+      <workItem from="1592650665613" duration="21000" />
     </task>
     <servers />
   </component>
@@ -165,6 +178,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="137" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1592301798583">

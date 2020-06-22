@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <img id="img-of-the-day" width="400px" height="400px">
+    <script>
+        let query = 'https://api.nasa.gov/planetary/apod?api_key=xL19N8O3QtvfxVJwS05XluiKKnHmvoEnOqX3YDKC' ;
+        let request = new XMLHttpRequest();
+        request.open('GET', query);
+        request.onload = function() {
+            if (request.status === 200) {
+                let response = JSON.parse(request.responseText);
+                document.getElementById('img-of-the-day').setAttribute('src', response.url);
+            }
+        };
+        request.send();
+    </script>
+    <style>
+        table {
+            border: 1px solid #000;
+        }
+
+        th, td {
+            border: 1px dotted #555;
+        }
+    </style>
+
+</head>
+<body>
+<table>
+    <caption>Comment List</caption>
+    <thead>
+    <tr>
+        <th>Author</th>
+        <th>Feedback</th>
+        <th>Point</th>
+        <th>Date</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr th:each="c : ${image}">
+        <td th:text="${c.author}"></td>
+        <td th:text="${c.feedback}"></td>
+        <td th:text="${c.point}"></td>
+        <td th:text="${c.date}"></td>
+    </tr>
+    </tbody>
+</table>
+</body>
+</html>
